@@ -8,3 +8,6 @@
 
 const name = "Name"
 ```
+- [ ] Add Headings
+- [ ] Add Image
+- [ ] Add Code
